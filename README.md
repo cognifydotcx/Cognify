@@ -1,4 +1,3 @@
-```markdown
 # Multi-Agent AI System with Validation
 
 ![Project Logo](https://via.placeholder.com/150)
@@ -249,6 +248,3 @@ This project is licensed under the [MIT License](LICENSE).
 - [Streamlit](https://streamlit.io/) for the web application framework.
 - [Loguru](https://github.com/Delgan/loguru) for the logging library.
 - Inspired by collaborative multi-agent system architectures and prompt engineering techniques like Chain-of-Thought (CoT) and ReAct.
-
----
-```
