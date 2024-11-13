@@ -1,6 +1,6 @@
-# Multi-Agent AI System with Validation
+# AI Agents from Scratch
 
-![Project Logo](https://via.placeholder.com/150)
+![AI Agents from Scratch](logo.png)
 
 ## Table of Contents
 
