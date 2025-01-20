@@ -129,8 +129,8 @@ Follow Us: [Twitter](https://x.com/cognifydotcx)
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/AIAnytime/Multi-Agents-System-from-Scratch.git
-   cd Multi-Agents-System-from-Scratch
+   git clone https://github.com/cognifydotcx/Cognify.git
+   cd Cognify
    ```
 
 2. **Create a Virtual Environment**
